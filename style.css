@@ -43,7 +43,7 @@ article {
 .sedans {
     background-color: var(--bright-orange);
     padding: 2rem;
-    min-height: 100%;
+
 }
 p {
     padding-bottom: 4rem;
@@ -57,12 +57,12 @@ h2 {
 .suvs {
     background-color: var(--dark-cyan);
     padding: 2rem;
-    min-height: 100%;
+
 }
 .luxury {
     background-color: var(--very-dark-cyan);
     padding: 2rem;
-    min-height: 100%;
+
 }
 button {
     height: 3rem;
